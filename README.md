@@ -14,9 +14,7 @@ A simple yet elegant **Flutter business card app** that showcases personal conta
 
  Screenshots
 
-> *(Add your app screenshots here)*
-
-![Home Screen](screenshots/home_page.jpeg)
+<img src="screenshots/home.png" width="250"/>
 
  Getting Started
 
