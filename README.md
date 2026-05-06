@@ -14,7 +14,7 @@ A simple yet elegant **Flutter business card app** that showcases personal conta
 
  Screenshots
 
-<img src="screenshots/home.png" width="250"/>
+<img src="screenshots/home_page.jpeg" width="250"/>
 
  Getting Started
 
